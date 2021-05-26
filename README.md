@@ -53,7 +53,7 @@ We'll be using Django as our backend framework for the next few lectures of Unit
   psycopg2-binary = "*"
 
   [requires]
-  python_version = "3.7"
+  python_version = "3.9"
   ```
 
   Make sure `python_version` is set to a version that is 3 or greater. If the version mentioned in the `Pipfile` is already 3 or greater, then you can skip to the next step (i.e., install django).
