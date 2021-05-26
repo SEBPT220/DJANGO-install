@@ -1,4 +1,4 @@
-# Homework: Set Up a Django Application & Virtual Environment
+#  Setting Up a Django Application & Virtual Environment
 
 ## Python 3 Installation
 
